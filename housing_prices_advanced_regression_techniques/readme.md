@@ -8,3 +8,13 @@
  Iam 4090 position but there are things that can be improved iteratively.
  
  Like making use of other columns that I dropped!
+
+### Second submission using simple pytorch
+
+ ![](simple_housing.png)
+
+ Submission first:
+
+ ![](sub_1.png)
+
+ best submission rank 1K.
