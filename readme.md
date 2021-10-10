@@ -36,6 +36,8 @@ Best submission rank: 1K.
 ## 5. Resnet_implementation
 
 Incomplete:
+https://www.kaggle.com/fanbyprinciple/fish-classification-with-resnet
+
 
 ![](resnet_implementation/fish_dataset.png)
 
